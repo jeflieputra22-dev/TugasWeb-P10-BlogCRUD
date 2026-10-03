@@ -99,7 +99,6 @@ resources/views/
 | Flash message sukses | Detail post | Form edit | Pencarian |
 |---|---|---|---|
 | ![flash](screenshots/flash/flash.png) | ![show](screenshots/show/show.png) | ![edit](screenshots/edit/edit.png) | ![search](screenshots/srearch/search.png) |
-![Database](screenshots/database/database.png) |
 
 ## 7. Bonus yang Dikerjakan
 
