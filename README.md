@@ -94,11 +94,12 @@ resources/views/
 
 | Daftar post + pagination | Form tambah | Validasi gagal (error per field) |
 |---|---|---|
-| ![index](screenshots/index/index.png) | ![create](screenshots/create/create.png) | ![validasi](screenshots/validas/validasi.png) |
+| ![index](screenshots/index/index.png) | ![create](screenshots/create/create.png) | ![validasi](screenshots/validasi/validasi.png) |
 
 | Flash message sukses | Detail post | Form edit | Pencarian |
 |---|---|---|---|
-| ![flash](screenshots/flash/flash.png) | ![show](screenshots/show/show.png) | ![edit](screenshots/edit/edit.png) | ![search](screenshots/srearch/search.png) |
+| ![flash](screenshots/flash/flash.png) | ![show](screenshots/show/show.png) | ![edit](screenshots/edit/edit.png) | ![search](screenshots/sreach/search.png) |
+![database](screenshots/database/database.png) |
 
 ## 7. Bonus yang Dikerjakan
 
