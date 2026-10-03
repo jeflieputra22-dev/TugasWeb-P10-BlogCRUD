@@ -97,9 +97,8 @@ resources/views/
 | ![index](screenshots/index/index.png) | ![create](screenshots/create/create.png) | ![validasi](screenshots/validasi/validasi.png) |
 
 | Flash message sukses | Detail post | Form edit | Pencarian |
-|---|---|---|---|---|
-| ![flash](screenshots/flash/flash.png) | ![show](screenshots/show/show.png) | ![edit](screenshots/edit/edit.png) | ![search](screenshots/search/search.png) | 
-![database](screenshots/database/database.png) |
+|---|---|---|---|
+| ![flash](screenshots/flash/flash.png) | ![show](screenshots/show/show.png) | ![edit](screenshots/edit/edit.png) | ![search](screenshots/search/search.png) |
 
 ## 7. Bonus yang Dikerjakan
 
